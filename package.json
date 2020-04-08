@@ -16,7 +16,7 @@
     "url": "https://github.com/DongXin9/jsnotepad/issues"
   },
   "homepage": "https://github.com/DongXin9/jsnotepad#readme",
-   "dependencies": {
+  "dependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-clean": "^2.0.0",
     "grunt-contrib-concat": "^1.0.1",
